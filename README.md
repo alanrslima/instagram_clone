@@ -25,7 +25,7 @@ $ yarn
 ```
 $ npm install
 ```
-To proceed you need to have the [nodeJs](https://nodejs.org/en/) on your machine. CMake sure of this and start the server in development mode with one of the commands below:
+To proceed you need to have the [nodeJs](https://nodejs.org/en/) on your machine. Make sure of this and start the server in development mode with one of the commands below:
 ```
 $ yarn dev
 ```

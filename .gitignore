@@ -1,6 +1,6 @@
 # Files paths
-tmp/uploads/*
-!tmp/uploads/.gitkeep
+backend/uploads/resized/*
+!backend/uploads/resized/.gitkeep
 
 # OSX
 #
